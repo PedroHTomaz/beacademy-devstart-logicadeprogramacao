@@ -1,0 +1,18 @@
+Algoritmo "atv1Aula2"
+
+Inicio
+1. Pare o carro;
+2. Desça do carro;
+3. Abra a mala;
+4. Pegue o triângulo de sinalização;
+5. Sinalize a estrada;
+6. Pegue a chave de roda;
+7. Afrouxe os parafusos do pneu furado;
+8. Pegue o macaco e coloque-o na posição correta;
+9. Levante o carro até que o pneu fique suspenso;
+10. Pegue o estepe;
+11. Coloque o estepe na posição de encaixe;
+12. Encaixe o estepe;
+13. Coloque os parafusos e acoche-os;
+14. Recolha o triângulo e as ferramentas e guarde-os na mala.
+Fimalgoritmo
